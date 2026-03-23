@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Might⁺U",
+  "base_artist": "Makayla Phillips",
+  "createdAt": "2026-03-23T21:56:30.643404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Might⁺U",
+      "artist": "Makayla Phillips",
+      "has_synced": false,
+      "path": "select/01_Might+U_Makayla_Phillips.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Might+U (from \"My Hero Academia\") [feat. Ricco Fajardo]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/02_Might+U_(from__My_Hero_Academia_)_[feat._Ricco_Fajardo]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Might+U (from \"My Hero Academia\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/03_Might+U_(from__My_Hero_Academia_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Might+U (From \"My Hero Academia\")",
+      "artist": "Boy Hero",
+      "has_synced": false,
+      "path": "select/04_Might+U_(From__My_Hero_Academia_)_Boy_Hero.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Might+U (From \"My Hero Academia\")",
+      "artist": "Mewsic",
+      "has_synced": false,
+      "path": "select/05_Might+U_(From__My_Hero_Academia_)_Mewsic.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Might+u (My Hero Academia)",
+      "artist": "Shayne Orok",
+      "has_synced": true,
+      "path": "select/06_Might+u_(My_Hero_Academia)_Shayne_Orok.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Might⁺U",
+      "artist": "Makayla Phillips",
+      "has_synced": true,
+      "path": "select/07_Might+U_Makayla_Phillips.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Might+U (from \"My Hero Academia\")",
+      "artist": "AmaLee feat. Ricco Fajardo",
+      "has_synced": true,
+      "path": "select/08_Might+U_(from__My_Hero_Academia_)_AmaLee_feat._Ricco_Fajardo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Might+U",
+      "artist": "AmaLee feat. Ricco Fajardo",
+      "has_synced": true,
+      "path": "select/09_Might+U_AmaLee_feat._Ricco_Fajardo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Might+U (from \"My Hero Academia\") [feat. Ricco Fajardo]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/10_Might+U_(from__My_Hero_Academia_)_[feat._Ricco_Fajardo]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Might+U (From \"My Hero Academia 4\")",
+      "artist": "PianoPrinceOfAnime",
+      "has_synced": false,
+      "path": "select/11_Might+U_(From__My_Hero_Academia_4_)_PianoPrinceOfAnime.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Might+U (From \"My Hero Academia: Heroes Rising\")",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/12_Might+U_(From__My_Hero_Academia__Heroes_Rising_)_Akano.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Might+U (from \"My Hero Academia\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/13_Might+U_(from__My_Hero_Academia_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Might*U",
+      "artist": "Yuki Hayashi",
+      "has_synced": true,
+      "path": "select/14_Might_U_Yuki_Hayashi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Might⁺U",
+      "artist": "林ゆうき",
+      "has_synced": true,
+      "path": "select/15_Might+U_林ゆうき.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Might⁺U",
+      "artist": "Makayla Phillips, 林ゆうき",
+      "has_synced": false,
+      "path": "select/pl_01_Might+U_Makayla_Phillips,_林ゆうき.txt"
+    }
+  ]
+}
